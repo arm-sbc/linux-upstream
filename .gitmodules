@@ -1,6 +1,3 @@
-[submodule "sbc-linux"]
-	path = sbc-linux
-	url = https://github.com/arm-sbc/sbc-linux
 [submodule "sbc-u-boot"]
 	path = sbc-u-boot
 	url = https://github.com/arm-sbc/sbc-u-boot
